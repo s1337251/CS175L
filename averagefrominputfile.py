@@ -1,3 +1,7 @@
+#CS175L
+#Jimmy Kong
+#averagefrominputfile
+
 def main():
     numbers_file = open('numbers.txt', 'r')
     line = numbers_file.readline()
